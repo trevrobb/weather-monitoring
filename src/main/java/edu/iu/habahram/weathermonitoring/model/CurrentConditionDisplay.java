@@ -57,4 +57,6 @@ public class CurrentConditionDisplay
     public void unsubscribe() {
         weatherData.removeObserver(this);
     }
+
+   
 }
